@@ -1,0 +1,45 @@
+Variaveis e Constantes 
+
+-> usandoVar1
+
+- Escopo é o local onde aquela variavel é vizivel, voce declara uma variavel dentro do seu programa
+e ela fica vizivel até onde!? até onde ela é acessivel 
+
+- existe um objeto dentro do brauser que se chama window, Window é um objeto global que tem tudo
+que tem dentro da sua janela que for declarado fora de função, que for estar vizivel globalmete 
+na aplicação.  
+
+- global: vizivel na aplicação inteira (var)
+
+- se cria var global ou em escopo de função. se criarmos uma variavel
+dentro de um bloco de não é função, fora daquele bloco a var fica vizivel.
+
+- se criarmos uma var dentro de um escopo de uma function, ela só é vizivel dentro da function
+
+VAR 
+- é ruim usar Var 
+- quando voce cria uma variavel dentro de uma função essa variavel é global e é um problema criar
+variaveis globais no JS porque como todas as variaveis vão parar no mesmo lugar (window) elas se 
+sobreescrevem 
+
+- porque se deve evitar usar variaveis que vão para o escopo global?
+pq quando se cria uma variavel e ela vai pra o escopo global,
+exite a 'vantagem' de voce poder acessar essa variavel de qualquer lugar do seu sistema
+mas por outro lado, qualquer sobreescrita dessa variavel pode gerar problemas muito serios.
+
+-> usandoVar2
+- não existe escopo de bloco para uma variavel do tipo var, só existe escopo de var dentro
+de function(que é um bloco), mas tirando a function, todo o tipo de bloco o var ignora
+
+-> usandoLet1
+- variaveis definidas com a palavra reservada VAR tem escopo global e de função
+- variaveis definidas com a palavra reservada LET tem escopo global,
+escopo de função e escopo de bloco (local)
+
+-> usandoVarEmLoop1
+- Loop é um laço
+- laço For é um laço de repetição
+- o for é separado por tres partes:
+    1 - declaração de uma variavel
+    2 - condição que vai ser usada para ficar repetind0
+    3 - incremento 

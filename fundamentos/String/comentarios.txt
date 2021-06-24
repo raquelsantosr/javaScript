@@ -1,0 +1,5 @@
+String é uma cadeia de caracteres, que no JavaScript pode ser delimitado
+por três simbolos: 
+- aspas duplas ("")
+- aspas simples ('')
+- crase (``)

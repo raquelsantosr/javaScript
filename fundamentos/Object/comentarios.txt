@@ -1,0 +1,18 @@
+Object 
+
+- um objeto JS não é a mesma coisa de um objeto JSON (JavaScript Object Notation) 
+- JSON é um formato textual
+
+- Object em JS é mais literal
+
+- um par de chaves "{}" representa um objeto de forma literal
+- o objeto em JS é uma coleção de chave : valor, você o nome do atributo que seja um 
+identificador e voce passa um valor pra ele que pode ser uma string, number, boolean, 
+inclusive uma função. MAS SEMPRE um objeto vai ser uma coleção de chaves:valores
+
+- um objeto pode ter varios valore dentro dele {{{valores}}}
+ex.
+    let meuCarro = new Object();
+    meuCarro.fabricacao = "Ford";
+    meuCarro.modelo = "Mustang";
+    meuCarro.ano = 1969;

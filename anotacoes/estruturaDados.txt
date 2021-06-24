@@ -1,0 +1,66 @@
+O que são as Estruturas de Dados? 
+
+- Dados são representações de fatos. São como uma simples observação do mundo. 
+Geralmente são representados por letras (a-z, A-Z), números (0-9) ou caracteres especiais (+,-,/,*,<,>,= etc.).
+
+- estruturas de dados =/= dados
+
+- Estrutura de dados como o nome ja diz "quero estruturar meu dado"
+
+TIPO LISTA
+
+- estrutura de dados visa organizar e administrar os dados, ou seja, trazer ordem ha estrutura. Exemplo: 
+Saiu a LISTA dos aprovados 
+{
+    1. João
+    2. Ana 
+    3. Gustavo
+    4. Camila
+    5. Lia
+}
+
+        - quando você imagina uma lista você imagina organização e sequência
+        - muitas vezes pode ser uma lista não ordenada, por exemplo como a lista de supermecado, 
+        não obrigatoriamente seguir a ordem correta que escreveu.
+        - a listas que a ordem é extremamente importante
+
+
+ESTRUTURA DE FILA/PILHA
+Logica FIFO (First-In, First-Out) ou “Primeiro a Entrar, Primeiro a Sair”. Em uma fila por exemplo, o primeiro que chega é
+o primeiro que vai ser atendido, é o primeiro que sai da fila.
+(PRIMEIRO QUE CHEGA É O PRIMEIRO QUE SAI).
+
+Logica LIFO (Lest-In, First-Out) ou "Ultimo a Entrar, Primeiro a Sair". Em uma pilha de livros por exemplo, vou colocando um livro emcima do outro 
+e automaticamente o ultimo livro que vou colocar na pilha é o primeiro a sair da pilha.
+
+ESTRUTURA DE ÁRVORE 
+Como um sistema de arquivos no computador, exemplo : 
+- Pasta Musicas
+- Em Musicas: Rap e Rock 
+- Em Rock: Beatles
+- Em Beatles : yellow_submarine.mp3
+
+ESTRUTURA DE TABELA 
+Organizar os dados em linhas e colunas 
+
+ESTRUTURAS DE DADOS BÁSICAS (estruturas primarias)
+
+INT - Número inteiro, flutuante (number)
+REAL - 
+LETRA -
+BOOLEANOS - if/else
+
+VARIAVEIS E CONSTANTES 
+- Serve para que possa rotular um determinado valor que vai estar amarzenado na memoria do computador. 
+Exemplo: PI que é 3,14 e alguma coisa, sabemos que esse valor é um valor CONSTANTE, ele não muda e não precisa ser alterado!
+Já um idade, por exemplo é uma VARIAVEL ele muda a cada ano.
+
+
+OPERAÇÕES 
+Atribuição - atribuir um determinado dado a uma variavel.
+Aritmedica - somar, subtrair, multiplicar e dividir.
+Relacionais - comparação, o valor A = B?
+Lógicas - o usuario vai ou não comprar uma blusa. 
+
+também pode criar ESTRUTURAS PERSONALIZADAS, posso criar por exemplo uma estrutura personalizada para mapiar um cliente ou um produto
+apartir de estruturas mais basicas pode se criar estruturas personalizadas para suprir as necessidades de um sistema.

@@ -1,0 +1,8 @@
+organização no JS
+
+- Cada linha no código representa uma sentença de código
+
+- Um codigo JS também é organizado em blocos de código, é delimitado por chaves "{}".
+blocos podem ser relacionados ha função.
+podem ser associados a classe, objeto, estrutura de controle, 
+repetição... 

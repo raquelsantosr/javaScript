@@ -1,0 +1,20 @@
+Array 
+- é um vetor de estrutura unidirecional 
+- com uma forma de agrupar multiplos valores de uma forma linear em uma estrutura só 
+- apartir de um unico identificador 
+- não tem multiplas dimenções por padrão 
+- estrutura indexada
+
+- voce acessa os elementos de array a partir de um numero 
+- tem o primeiro elento apartir do indice 0, o segundo elemento apartir do indice 1
+o terceiro elemento do indice 2 e assim sucessivamente 
+
+- um par de conchetes "[]" representa array
+
+Em javaScript o array é:
+- heterogenio 
+- com linguagem fracamente tipada, não a tipo nas variaveis 
+- não tem tamanho fixo
+
+Alert 
+- não misturar dados 

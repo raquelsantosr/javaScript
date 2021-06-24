@@ -1,0 +1,15 @@
+Exemplos Básicos de Funções #01
+
+O que é função
+- uma função é um verbo/ uma ação, ela executa um processo baseado nas centensas de codigo.
+- a função define um bloco associado 
+uma função nada mais é do que um trecho de código que se da nome pra ele
+e voce pode reuza esse trecho de código onde quiser
+- e como uma receita de bolo voce recebe os ingredientes de entrada que são os dados que voce vai receber 
+dentro dessa função, voce vai fazer todo o passo a passo de como voce vai fazer essa receita,
+e mistura e logo voce retorna um resultado, que seria o bolo pronto/feito!
+
+
+Função sem retorno 
+- em nenhum momento se deixa explicito que uma função retorna alguma coisa
+ex. pode chamar uma função em algum momento ele retornar alguma coisa e em outro momento não retornar 

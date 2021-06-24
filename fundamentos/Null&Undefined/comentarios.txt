@@ -1,0 +1,44 @@
+Null & Undefined
+
+- conceito de atribuição por valor e por referencia  
+- Null significa que se voce tem uma variavel ela não esta apontando pra nenhum endereço de memoria.
+- ela não tem nenhum valor dentro dela como é o valor primitivo, tipo: 3, boolean..
+e não tem nenhum endereço que aponte pra algum lugar de memoria que tenha um valor lá.
+
+- ausencia de valor 
+
+exemplos 
+const a = {nome: "Teste"} //const a recebe objeto 
+//Undefined
+
+a
+//Undefined
+
+const b = a 
+//Undefined
+
+b.nome = 'Opa'
+// 'Opa'
+
+a 
+// {nome :'Opa'}
+
+- se eu mexer em 'b' que faz parte de 'a' o 'a' vai sentir a mudança 
+porque 'b' faz parte de 'a' 
+
+
+let c = 3
+//Undefined
+
+let d = c
+
+d++
+3
+
+- quando estou trabalhando com tipos primitivos eu faço uma copia por valor 
+ou seja, uma copia do valor é passada para variavel 'd' de tal forma que 'd'
+tem o seu valor e 'c' tem o seu valor e esses alores são independentes.
+é diferente de quando esta trabalhando com objeto em JS que a passagem/atribuição é 
+feita por referencia, ou seja, a variavel 'a' e a variavel 'b' do nosso exemplo é 
+apontada para o mesmo objeto em memoria e com que se você mudar a parte de 'a' o 
+'b' vai perceber, e se voce mudar a parte de 'b' o 'a' vai perceber a mudança.

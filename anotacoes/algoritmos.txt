@@ -1,0 +1,32 @@
+ALGORITMOS
+Um algoritmo é uma sequência de passos lógicos necessários para 
+executarmos uma tarefa. Em outras palavras, é como se fosse um 
+passo a passo para resolver um problema, com instruções simples e 
+exatas.
+
+algoritmo : 
+- sequência de passos
+(ex. acordar, escovar os dentes, tomar café, tomar banho,
+ir trabalhar...)
+
+- tem repetição (pode repitir "X" vezes ou repetir até uma
+determinada condição...)
+
+- tomada de decisão (passo A ou passo B, podendo ser feita em 
+determinada condição, tipo nota escolar: se tirar +=7 "aprovado"
+mas se -= 6 "reprovado" por exemplo um boolean)
+
+
+algoritmo não é só software, algoritmo é vida 
+ex. 
+- o trajeto de casa para o trabalho
+
+- receita de bolo (conjunto de ingredientes (dados), passo a passo,
+misturar os ingredientes A e B, colocar o bolo para assar...)
+
+- se vestir  
+
+
+algoritmo: visão geral 
+- há algoritmos que tem entrada e saida 
+- há algoritmos que tem entrada e é sem saida
